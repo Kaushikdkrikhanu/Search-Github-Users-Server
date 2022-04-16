@@ -5,7 +5,7 @@ http://githubusersearch-env.eba-rtqyhpjt.us-west-1.elasticbeanstalk.com/
 
 
 ## Run
-### `npm run start`
+### `npm run dev`
 
 The client requests the Server for the users info. https://main--bespoke-lebkuchen-43b5cc.netlify.app/<br>
 The server queries the Github Search API.<br>
